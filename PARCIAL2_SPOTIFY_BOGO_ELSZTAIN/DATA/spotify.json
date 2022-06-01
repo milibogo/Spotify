@@ -1,0 +1,282 @@
+{
+  "minDuracion": 148,
+  "maxDuracion": 261,
+  "minBailabilidad": 48,
+  "maxBailabilidad": 90,
+  "minEnergia": 34,
+  "maxEnergia": 89,
+  "minBpm": 93,
+  "maxBpm": 158,
+  "canciones": [
+    {
+      "titulo": "Good as Hell (feat. Ariana Grande) - Remix",
+      "artista": "Lizzo",
+      "genero": "R&B",
+      "duracion": 159,
+      "bailabilidad": 67,
+      "energia": 89,
+      "bpm": 96
+    },
+    {
+      "titulo": "Giant (with Rag'n'Bone Man)",
+      "artista": "Calvin Harris",
+      "genero": "Pop",
+      "duracion": 229,
+      "bailabilidad": 81,
+      "energia": 89,
+      "bpm": 122
+    },
+    {
+      "titulo": "Don't Call Me Up",
+      "artista": "Mabel",
+      "genero": "Pop",
+      "duracion": 178,
+      "bailabilidad": 67,
+      "energia": 88,
+      "bpm": 99
+    },
+    {
+      "titulo": "Con Calma - Remix",
+      "artista": "Daddy Yankee",
+      "genero": "Latin",
+      "duracion": 181,
+      "bailabilidad": 74,
+      "energia": 87,
+      "bpm": 94
+    },
+    {
+      "titulo": "All Around The World (La La La)",
+      "artista": "R3HAB",
+      "genero": "Big room",
+      "duracion": 148,
+      "bailabilidad": 73,
+      "energia": 86,
+      "bpm": 125
+    },
+    {
+      "titulo": "Antisocial (with Travis Scott)",
+      "artista": "Ed Sheeran",
+      "genero": "Pop",
+      "duracion": 162,
+      "bailabilidad": 72,
+      "energia": 82,
+      "bpm": 152
+    },
+    {
+      "titulo": "Taki Taki (feat. Selena Gomez, Ozuna & Cardi B)",
+      "artista": "DJ Snake",
+      "genero": "Electronic trap",
+      "duracion": 213,
+      "bailabilidad": 84,
+      "energia": 80,
+      "bpm": 96
+    },
+    {
+      "titulo": "Happier",
+      "artista": "Marshmello",
+      "genero": "Pop",
+      "duracion": 214,
+      "bailabilidad": 69,
+      "energia": 79,
+      "bpm": 100
+    },
+    {
+      "titulo": "Cross Me (feat. Chance the Rapper & PnB Rock)",
+      "artista": "Ed Sheeran",
+      "genero": "Pop",
+      "duracion": 206,
+      "bailabilidad": 75,
+      "energia": 79,
+      "bpm": 95
+    },
+    {
+      "titulo": "Nothing Breaks Like a Heart (feat. Miley Cyrus)",
+      "artista": "Mark Ronson",
+      "genero": "Pop",
+      "duracion": 217,
+      "bailabilidad": 60,
+      "energia": 79,
+      "bpm": 114
+    },
+    {
+      "titulo": "No Brainer (feat. Justin Bieber, Chance the Rapper & Quavo)",
+      "artista": "DJ Khaled",
+      "genero": "Pop",
+      "duracion": 260,
+      "bailabilidad": 53,
+      "energia": 76,
+      "bpm": 136
+    },
+    {
+      "titulo": "Sucker",
+      "artista": "Jonas Brothers",
+      "genero": "Pop",
+      "duracion": 181,
+      "bailabilidad": 84,
+      "energia": 73,
+      "bpm": 138
+    },
+    {
+      "titulo": "Call You Mine",
+      "artista": "The Chainsmokers",
+      "genero": "Pop",
+      "duracion": 218,
+      "bailabilidad": 59,
+      "energia": 70,
+      "bpm": 104
+    },
+    {
+      "titulo": "How Do You Sleep?",
+      "artista": "Sam Smith",
+      "genero": "Pop",
+      "duracion": 202,
+      "bailabilidad": 48,
+      "energia": 68,
+      "bpm": 111
+    },
+    {
+      "titulo": "Higher Love",
+      "artista": "Kygo",
+      "genero": "Edm",
+      "duracion": 228,
+      "bailabilidad": 69,
+      "energia": 68,
+      "bpm": 104
+    },
+    {
+      "titulo": "I Don't Care (with Justin Bieber)",
+      "artista": "Ed Sheeran",
+      "genero": "Pop",
+      "duracion": 220,
+      "bailabilidad": 80,
+      "energia": 68,
+      "bpm": 102
+    },
+    {
+      "titulo": "Find U Again (feat. Camila Cabello)",
+      "artista": "Mark Ronson",
+      "genero": "Pop",
+      "duracion": 176,
+      "bailabilidad": 61,
+      "energia": 66,
+      "bpm": 104
+    },
+    {
+      "titulo": "Beautiful People (feat. Khalid)",
+      "artista": "Ed Sheeran",
+      "genero": "Pop",
+      "duracion": 198,
+      "bailabilidad": 64,
+      "energia": 65,
+      "bpm": 93
+    },
+    {
+      "titulo": "South of the Border (feat. Camila Cabello & Cardi B)",
+      "artista": "Ed Sheeran",
+      "genero": "Pop",
+      "duracion": 204,
+      "bailabilidad": 86,
+      "energia": 62,
+      "bpm": 98
+    },
+    {
+      "titulo": "Truth Hurts",
+      "artista": "Lizzo",
+      "genero": "R&B",
+      "duracion": 173,
+      "bailabilidad": 72,
+      "energia": 62,
+      "bpm": 158
+    },
+    {
+      "titulo": "Señorita",
+      "artista": "Shawn Mendes",
+      "genero": "Pop",
+      "duracion": 191,
+      "bailabilidad": 76,
+      "energia": 54,
+      "bpm": 117
+    },
+    {
+      "titulo": "Girls Like You (feat. Cardi B)",
+      "artista": "Maroon 5",
+      "genero": "Pop",
+      "duracion": 236,
+      "bailabilidad": 85,
+      "energia": 54,
+      "bpm": 125
+    },
+    {
+      "titulo": "Takeaway",
+      "artista": "The Chainsmokers",
+      "genero": "Pop",
+      "duracion": 210,
+      "bailabilidad": 53,
+      "energia": 51,
+      "bpm": 100
+    },
+    {
+      "titulo": "Only Human",
+      "artista": "Jonas Brothers",
+      "genero": "Pop",
+      "duracion": 183,
+      "bailabilidad": 80,
+      "energia": 50,
+      "bpm": 94
+    },
+    {
+      "titulo": "Trampoline (with ZAYN)",
+      "artista": "SHAED",
+      "genero": "Pop",
+      "duracion": 184,
+      "bailabilidad": 62,
+      "energia": 46,
+      "bpm": 127
+    },
+    {
+      "titulo": "No Guidance (feat. Drake)",
+      "artista": "Chris Brown",
+      "genero": "Pop",
+      "duracion": 261,
+      "bailabilidad": 70,
+      "energia": 45,
+      "bpm": 93
+    },
+    {
+      "titulo": "Kills You Slowly",
+      "artista": "The Chainsmokers",
+      "genero": "Pop",
+      "duracion": 213,
+      "bailabilidad": 70,
+      "energia": 44,
+      "bpm": 150
+    },
+    {
+      "titulo": "Someone You Loved",
+      "artista": "Lewis Capaldi",
+      "genero": "Pop",
+      "duracion": 182,
+      "bailabilidad": 50,
+      "energia": 41,
+      "bpm": 110
+    },
+    {
+      "titulo": "Talk (feat. Disclosure)",
+      "artista": "Khalid",
+      "genero": "R&B",
+      "duracion": 198,
+      "bailabilidad": 90,
+      "energia": 40,
+      "bpm": 136
+    },
+    {
+      "titulo": "Lose You To Love Me",
+      "artista": "Selena Gomez",
+      "genero": "Pop",
+      "duracion": 206,
+      "bailabilidad": 51,
+      "energia": 34,
+      "bpm": 102
+    }
+  ]
+}
